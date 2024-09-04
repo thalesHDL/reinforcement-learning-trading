@@ -6,6 +6,4 @@ So, as the name suggests, it's just a project that applies reinforcement learnin
 
 It's also important to mention that in my first attempt, I was writing a paper about it, so the project won't be just code.
 
-In fact, looking back now, jumping straight into the code was one of the mistakes I made when developing the project. Because of that mistake, I didn't define in detail everything about the problem or everything about the solution I was proposing to try to solve the problem. And in the end, I didn't even know exactly what I was doing.
-
-So, for this new attempt, before I start coding, I'll do a good literature review and write a good theoretical background.
+In fact, looking back now, jumping straight into the code was one of the mistakes I made when developing the project. So, for this new attempt, before I start coding, I'll do a good literature review and write a good theoretical background.
